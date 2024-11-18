@@ -83,6 +83,7 @@ CleanArchitectureDotNet9
 │   │   └── ApiBehaviorExtensions.cs
 │   └── Program.cs
 └── appsettings.json
+```
 
 ## Installation
 To get started with the DotNetFireStore project, follow these steps:

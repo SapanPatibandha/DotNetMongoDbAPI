@@ -1,6 +1,0 @@
-@CleanArchitectureDotNet9.WebAPI_HostAddress = http://localhost:5015
-
-GET {{CleanArchitectureDotNet9.WebAPI_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###

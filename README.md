@@ -96,7 +96,7 @@ To get started with the DotNetFireStore project, follow these steps:
 
 1. **Open your `appsettings.json` file** in your .NET Core project.
 
-2. **Locate the Firestore configuration section**, which should look like this:
+2. **Locate the database configuration section**, which should look like this:
 
    ```json
    "MongoDB": {

@@ -3,10 +3,10 @@
 
 ## Table of Contents
 - [Features](#features)
-- [Technology](#technologies_used)
-- [Structure](#project_structure)
+- [Technologies Used](#technologies-used)
+- [Project Structure](#project-structure)
 - [Installation](#installation)
-- [Instructions](#instructions-for-configuration)
+- [Instructions for Configuration](#instructions-for-configuration)
 - [Usage](#usage)
 - [License](#license)
 

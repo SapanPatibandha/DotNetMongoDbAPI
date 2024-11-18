@@ -100,8 +100,8 @@ To get started with the DotNetFireStore project, follow these steps:
 
    ```json
    "MongoDB": {
-     "ConnectionString": "your-firestore-project-id",
-     "DatabaseName": "Path/your-service-key.json"
+     "ConnectionString": "your-connection-string",
+     "DatabaseName": "your-db-name"
    },
    
 Replace the placeholders with your actual connections project details:

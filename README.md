@@ -1,5 +1,5 @@
 # Clean Architecture with Minimal APIs and MongoDB (.NET 9)
- Prjoect Developed with .NET 9, Minimal APIs, MongoDB for persistence, and CQRS with MediatR for separation of concerns. The project follows best practices for modern .NET application development.
+ Prjoect Developed with .NET 9, Minimal APIs, MongoDB for persistence, and CQRS with MediatR for separation of concerns. The project follows best practices.
 
 ## Table of Contents
 - [Features](#features)

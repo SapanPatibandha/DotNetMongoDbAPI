@@ -3,8 +3,9 @@
 
 ## Table of Contents
 - [Features](#features)
-- [Technology](#features)
-- [Installation](#technologies_used)
+- [Technology](#technologies_used)
+- [Structure](#project_structure)
+- [Installation](#installation)
 - [Instructions](#instructions-for-configuration)
 - [Usage](#usage)
 - [License](#license)

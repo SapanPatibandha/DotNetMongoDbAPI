@@ -12,6 +12,12 @@ namespace CleanArchitectureDotNet9.WebAPI.Endpoints
                 await userRepository.AddAsync(user);
                 return Results.Created($"/users/{user.Id}", user);
             }).WithTags("Users");
+
+            app.MapGet("/users", async (IUserRepository userRepository) =>
+            {
+                var users = await userRepository.GetAllAsync();
+                return Results.Ok(users);
+            }).WithTags("Users");
         }
     }
 }
